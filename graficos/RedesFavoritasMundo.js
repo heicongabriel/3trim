@@ -42,4 +42,4 @@ async function redesFavoritasMundo() {
     Plotly.newPlot(grafico, data, layout)
 }
 
-redesFavoritasMundo()
+RedesFavoritasMundo()
